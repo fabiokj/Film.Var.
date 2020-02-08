@@ -1,0 +1,129 @@
+<item>
+<title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]2[/COLOR][/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/osBDac3.jpg</thumbnail>
+<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/filmes/page2.xml</externallink>
+<info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
+<fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]#HORROR[/COLOR][/B]</title>
+<link>$doregex[BP1]HROR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</fanart>
+<info>Inspirado em fatos reais, um grupo de garotas de 12 anos de idade enfrenta uma noite de horror quando um vício compulsivo por um jogo online de uma rede social, transforma um momento de cyber-bullying em uma noite de insanidade.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]#REALITYHIGH[/COLOR][/B]</title>
+<link>$doregex[BP1]RALTYHGH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/RealityHigh.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/RealityHigh.jpg</fanart>
+<info>Dani Barnes (Nesta Cooper) é uma jovem nerd percorrendo um grande sonho de ser aceita na UC Davis, a melhor universidade veterinária do mundo. Mas seus planos podem ir por água abaixo quando ela finalmente chama a atenção do garoto que ela estavam afim: a namorada dele, uma cebelebridade nas redes sociais, despertou sua fúria por Dani.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white](500) DIAS COM ELA[/COLOR][/B]</title>
+<link>$doregex[BP1]500DSCMELA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/(500)%20Dias%20com%20Ela.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/(500)%20Dias%20com%20Ela.jpg</fanart>
+<info>Tom Hansen (Joseph Gordon-Levitt) está em uma reunião com seu chefe, Vance (Clark Gregg), quando ele apresenta sua nova assistente, Summer Finn (Zooey Deschanel). Tom logo fica impressionado com sua beleza, o que faz com que tente, nas duas semanas seguintes, realizar algum tipo de contato. Sua grande chance surge quando seu melhor amigo o convida a ir em um karaokê, onde os colegas de trabalho costumam ir. Lá Tom encontra Summer. Eles também cantam e conversam sobre o amor, dando início a um relacionamento.</info>
+<date>2009</date>
+</item>
+<item>
+<title>[B][COLOR white](DES)ENCONTRO PERFEITO[/COLOR][/B]</title>
+<link>$doregex[BP1]DESNCTROPRFTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</fanart>
+<info>Nancy (Lake Bell) tem 34 anos de idade e leva uma vida fracassada no amor. Quando ela viaja a Londres para o aniversário de casamento de seus pais, conhece Jack (Simon Pegg), que confunde Nancy com a garota que ele está esperando para um encontro às cegas. Sem desfazer a confusão, Nancy assume a identidade da garota que Jack esperava, e passa uma ótima noite ao lado do pretendente. Mas uma hora a mentira vai ser descoberta...</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]+ VELOZES + FURIOSOS[/COLOR][/B]</title>
+<link>$doregex[BP1]VLZEFROSOS02.mp4?617119629686666009761711962946527564820B265dpk7MD54akZPQkp6VjlGbkk.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/2%20Velozes%202%20Furiosos.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/2%20Velozes%202%20Furiosos.jpg</fanart>
+<info>Após deixar a polícia, Brian O'Conner (Paul Walker) é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone (Cole Hauser), o chefe do tráfico local. Para tanto ele recebe a ajuda de seu ex-colega Roman Pearce (Tyrese) e da agente secreta Monica Clemente (Eva Mendes).</info>
+<date>2003</date>
+</item>
+<item>
+<title>[B][COLOR white]...E O VENTO LEVOU[/COLOR][/B]</title>
+<link>$doregex[BP1]EOVNTOLVOU.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/...E%20o%20Vento%20Levou.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/...E%20o%20Vento%20Levou.jpg</fanart>
+<info>Uma reunião social acontece numa grande plantação na Georgia, Tara, cujo dono é Gerald O'Hara (Thomas Mitchell), um imigrante irlandês. Na mansão está Scarlett (Vivien Leigh), sua bela e teimosa filha adolescente. Os gêmeos Tarleton, Brent (Fred Crane) e Stuart, imploram para serem seus acompanhantes num churrasco, que haverá em Twelve Oaks, uma plantação vizinha. Scarlett flerta com eles enquanto tenta obter informações sobre o homem que ama obsessivamente, Ashley (Leslie Howard), o primogênito do patriarca de Twelve Oaks, John Wilkes (Howard C. Hickman). Ela ouve algo que a desagrada muito: Ashley está comprometido, o que depois é confirmado por seu pai. Scarlett acha a vida em Tara monótona, mas seu pai diz que Tara é uma herança inestimável, pois só a terra é um bem que dura para sempre. Ela apenasó pensa em Ashley, assim usa seu mais belo vestido para ir ao churrasco, revelando um inapropriado comportamento para um compromisso diurno, apesar das objeções de Mammy (Hattie McDowell), sua protetora escrava. Em Twelve Oaks Scarlett é o centro das atenções, em razão dos vários pretendentes que pairam sobre ela, mas nenhum deles é Ashley. Mais tarde Scarlett ouve os cavalheiros discutindo acaloradamente sobre a guerra eminente que acontecerá entre o Norte e o Sul, crendo que derrotarão em meses os ianques. Só Rhett Buttler (Clarrk Gable), um aventureiro que tem o hábito de ser franco, não concorda com estas declarações movidas mais pelo orgulho do que pela lógica. Ele diz que não há nenhuma fábrica de canhões no sul e afirma que os ianques estão melhor equipados e têm fábricas, estaleiros, minas de carvão e podem matar os sulistas de fome, pois têm o domínio dos portos, enquanto os sulistas só têm algodão, escravos e arrogância. Um jovem, Charles Hamilton (Rand Brooks), sentindo-se insultado, tenta desafiar Rhett para um duelo, mas ele se esquiva, mesmo sabendo que o derrotaria facilmente, e se retira. Ashley tenta ir ao seu encontro para acompanhá-lo, pois Rhett é um convidado, mas é detido por Scarlett, que quer falar com ele. Os dois vão até a biblioteca e ela fala para Ashley que o ama profundamente. Isto só faz ele lhe dizer que está noivo da prima dela, Melanie Hamilton (Olivia de Havilland). Ashley diz que ama Melanie, entretanto admite que ama Scarlett fraternalmente. Ela fica ainda mais irritada e esbofeteia Ashley, que deixa a biblioteca. Ela então lança um vaso contra a lareira e descobre que atrás de um sofá havia uma outra pessoa, Rhett. Quando Scarlett lhe diz que não é um cavalheiro, Rhett retruca dizendo que ela não é uma dama. pesar deste confronto, é claro que Rhett ficou atraído pela beleza de Scarlett. Em Twelve Oaks chega um cavaleiro, para dizer que a guerra começou. Os homens exultam e Charles vai dizer a Scarlett que a guerra foi declarada, com todos os homens indo se alistar. Enquanto via Ashley se despedir de Melanie, Scarlett ouve Charles lhe pedir em casamento. Movida pela mágoa, ela aceita e diz que quer casar antes que ele parta. Assim Melanie e Ashley se casam em um dia e no seguinte Scarlett se casa com Charles, apesar de não sentir nenhuma atração ou amor por ele. O que Scarlett desconhecia é que o futuro lhe reservava dias muito mais amargos, pois durante a Guerra Civil Americana várias fortunas e famílias seriam destruídas.</info>
+<date>1940</date>
+</item>
+<item>
+<title>[B][COLOR white].HACK//G.U. TRILOGY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]HCKTRLOGY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/hack%20GU%20Trilogy.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/hack%20GU%20Trilogy.jpg</fanart>
+<info>.hack//G.U. Trilogy é uma compilação e edição dos acontecimentos na série G.U., do Playstation 2. Fora feito totalmente em CG e mostra o protagonista, Haseo, um Adept Rogue (classe que pode usar armas e habilidades de outras classes) que, ao perder uma pessoa importante, vira o mais famoso PKKer (Player Killer Killer - Assassino de Assassino de Jogadores), o Terror da Morte e, posteriormente, sua evolução, tanto mental quanto 'física' (alteração de formas e adquirindo armas novas) em prol de derrotar o misterioso jogador denominado de Tri-Edge.</info>
+<date>2008</date>
+</item>
+<item>
+<title>[B][COLOR white].HACK//THE MOVIE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]HCKOMOVIE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/hack%20-%20The%20Movie.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/hack%20-%20The%20Movie.jpg</fanart>
+<info>Em 2024, as crianças vivem desde o nascimento em um mundo conectado por redes. Uma alegre criança de 14 anos do ginasial chamada Yuuki Sora não têm interesse em jogos, mas seus amigos a fazem entrar no popular mmorpg "The World". Entretanto, devido a um certo acontecimento no "The World", anomalias começam a ocorrer no mundo real.</info>
+<date>2012</date>
+</item>
+<item>
+<title>[B][COLOR white]007 A SERVIÇO SECRETO DE SUA MAJESTADE[/COLOR][/B]</title>
+<link>$doregex[BP1]0071969ASVCSCRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/007%20-%20A%20Servi%C3%A7o%20Secreto%20de%20Sua%20Majestade.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/007%20-%20A%20Servi%C3%A7o%20Secreto%20de%20Sua%20Majestade.jpg</fanart>
+<info>Em uma praia 007 (George Lazenby) evita que uma jovem mulher cometa suicídio. O pai dela o chefe de uma poderosa organização criminosa e, impressionado com Bond, quer que ele proteja sua filha se casando com ela. Em troca, ele oferece ao famoso agente informações que façam 007 chegar até Ernst Blofeld (Telly Savallas), o principal inimigo do agente. Inicialmente 007 concorda com o acordo, visando apenas poder matar Blofeld, mas com o tempo ele realmente fica apaixonado pela sua futura esposa. Porém, Bond logo descobre que Blofeld planeja destruir a humanidade com um vírus altamente mortal a menos que receba perdão por todos os seus crimes. Desta maneira, a Rainha da Inglaterra pede que Bond intervenha no caso, mas a situação se complica e toma um rumo inesperado.</info>
+<date>1969</date>
+</item>
+<item>
+<title>[B][COLOR white]007 CONTRA A CHANTAGEM ATÔMICA[/COLOR][/B]</title>
+<link>$doregex[BP1]0071965CNTRACTGMATN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20A%20Chantagem%20Atomica.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20A%20Chantagem%20Atomica.jpg</fanart>
+<info>James Bond (Sean Connery) tenta evitar a destruição de Miami por meio de uma super bomba, roubada pela SPECTRE. A organização está exigindo um pagamento de 100 milhões de dólares em diamantes para não cumprir a ameaça de explodir a cidade. Para isso, ele vai correr contra o tempo para encontrar as armas roubadas e impedir a morte de milhões de inocentes.</info>
+<date>1965</date>
+</item>
+
